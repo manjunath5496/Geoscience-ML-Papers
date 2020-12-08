@@ -124,7 +124,7 @@ Lithofacies-dependent rock-physics templates of an unconventional shale reservoi
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Geoscience-ML-Papers/blob/master/gml(67).pdf" style="text-decoration:none;">Is Machine Learning taking productivity in petroleum geoscience on a Moore's Law trajectory?</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Geoscience-ML-Papers/blob/master/gml(68).pdf" style="text-decoration:none;">Infinite Variational Autoencoder for Semi-Supervised Learning</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Geoscience-ML-Papers/blob/master/gml(68).pdf" style="text-decoration:none;">Lecture Notes on Machine Learning Methods in Geosciences</a></li> 
  
   
    <li><a target="_blank" href="https://github.com/manjunath5496/Geoscience-ML-Papers/blob/master/gml(69).pdf" style="text-decoration:none;">Toward the Geoscience Paper of the Future: Best practices for documenting and sharing research from data to software to provenance</a></li>                              
