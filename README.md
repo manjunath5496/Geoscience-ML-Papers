@@ -138,7 +138,8 @@ Lithofacies-dependent rock-physics templates of an unconventional shale reservoi
  <li><a target="_blank" href="https://github.com/manjunath5496/Geoscience-ML-Papers/blob/master/gml(72).pdf" style="text-decoration:none;">Machine Learning for the Geosciences:
 Challenges and Opportunities</a></li> 
  
-
+ <li><a target="_blank" href="https://github.com/manjunath5496/Geoscience-ML-Papers/blob/master/gml(73).pdf" style="text-decoration:none;">Use of Machine Learning and Artificial
+Intelligence In Earth Science</a></li> 
 
 
 
