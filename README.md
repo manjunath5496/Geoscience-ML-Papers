@@ -115,4 +115,38 @@ Lithofacies-dependent rock-physics templates of an unconventional shale reservoi
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Geoscience-ML-Papers/blob/master/gml(63).pdf" style="text-decoration:none;">Visualize geoscience education — Earth Science Week 2015</a></li>                              
 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Geoscience-ML-Papers/blob/master/gml(64).pdf" style="text-decoration:none;">Machine Learning in Petroleum Geoscience Constructing EarthNET</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Geoscience-ML-Papers/blob/master/gml(65).pdf" style="text-decoration:none;">Uncover-ML: a machine learning pipeline for geoscience data analysis</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Geoscience-ML-Papers/blob/master/gml(66).pdf" style="text-decoration:none;">Machine learning as a tool for geologists</a></li> 
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Geoscience-ML-Papers/blob/master/gml(67).pdf" style="text-decoration:none;">Is Machine Learning taking productivity in petroleum geoscience on a Moore's Law trajectory?</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Geoscience-ML-Papers/blob/master/gml(68).pdf" style="text-decoration:none;">Infinite Variational Autoencoder for Semi-Supervised Learning</a></li> 
+ 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Geoscience-ML-Papers/blob/master/gml(69).pdf" style="text-decoration:none;">Toward the Geoscience Paper of the Future: Best practices for documenting and sharing research from data to software to provenance</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Geoscience-ML-Papers/blob/master/gml(70).pdf" style="text-decoration:none;">Machine learning in geosciences and remote sensing</a></li> 
+  
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Geoscience-ML-Papers/blob/master/gml(71).pdf" style="text-decoration:none;">
+70 years of machine learning in geoscience in review</a></li>
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Geoscience-ML-Papers/blob/master/gml(72).pdf" style="text-decoration:none;">Machine Learning for the Geosciences:
+Challenges and Opportunities</a></li> 
+ 
+
+
+
+
+
+
+
+
+
+
+
   </ul>
